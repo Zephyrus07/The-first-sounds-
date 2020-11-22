@@ -315,7 +315,7 @@ PrefabInstance:
     - target: {fileID: 401915862850835709, guid: 4dfd5b58db0b7f4438ed153a6df2071e,
         type: 3}
       propertyPath: dialogue.sentences.Array.size
-      value: 8
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 401915862850835709, guid: 4dfd5b58db0b7f4438ed153a6df2071e,
         type: 3}
@@ -373,7 +373,21 @@ PrefabInstance:
     - target: {fileID: 401915862850835709, guid: 4dfd5b58db0b7f4438ed153a6df2071e,
         type: 3}
       propertyPath: dialogue.sentences.Array.data[7]
-      value: Go to the Time Travel gate. I will be just behind you.
+      value: 'Now try to familiarise with the movement.
+
+        Press the arrow
+        keys and move around.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 401915862850835709, guid: 4dfd5b58db0b7f4438ed153a6df2071e,
+        type: 3}
+      propertyPath: dialogue.sentences.Array.data[8]
+      value: "Once you are ready go to the Time Travel gate. I will be \njust behind
+        you.  Get close to it and then press W to enter."
+      objectReference: {fileID: 0}
+    - target: {fileID: 401915862850835709, guid: 4dfd5b58db0b7f4438ed153a6df2071e,
+        type: 3}
+      propertyPath: dialogue.sentences.Array.data[9]
+      value: Good luck!
       objectReference: {fileID: 0}
     - target: {fileID: 401915863199673324, guid: 4dfd5b58db0b7f4438ed153a6df2071e,
         type: 3}
