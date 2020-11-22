@@ -6,6 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 1b8deebb0f06415419a0eb65b05cd59b
+  - enabled: 1
+    path: Assets/Scenes/MainRoom.unity
+    guid: fa979472dea54cd428e6b953caf0efb5
+  - enabled: 1
+    path: Assets/Scenes/TimeRoom 1.unity
+    guid: 2ab8b527cf379c74395cf81db519a87f
+  - enabled: 1
+    path: Assets/Scenes/TimeLevel1.unity
+    guid: 96df57e4236214443aed16ce0bdea7ac
+  - enabled: 1
+    path: Assets/Scenes/TimeLevel2.unity
+    guid: d067ec5e6c71d0240a46d469ac9327da
+  - enabled: 1
+    path: Assets/Scenes/TimeLevel3.unity
+    guid: 0bc9e8b649bd2974db4fcc2518f12a27
+  - enabled: 1
     path: Assets/Scenes/The BeatlesInfoT.unity
     guid: 0e0ee7b9ab6e07948825f1288da21f6f
   - enabled: 1
@@ -23,6 +41,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Time Travel.unity
     guid: fa546606dc0cad34199e156f237d0774
+  - enabled: 1
+    path: Assets/Scenes/TimeRoom.unity
+    guid: c04cb476abb10d9479c55d25495f8c26
   - enabled: 1
     path: Assets/Scenes/MainRoom 1.unity
     guid: 8a3584e82bb501344b4e5b5584cbf2d0

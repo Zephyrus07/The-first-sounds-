@@ -7,7 +7,7 @@ using UnityEngine.Events;
 
 public class DialogueManager : MonoBehaviour
 {
-   
+    
     public GameObject talked;
     private Queue<string> sentences;
     public GameObject Approach;
@@ -42,25 +42,6 @@ public class DialogueManager : MonoBehaviour
         DisplayNextSentence();
 
     }
-    public void StartDialogue2(Dialogue dialogue)
-    {
-        text.SetBool("IsClosed", true);
-        talk.SetBool("IsUsed", true);
-        
-
-        Approach.gameObject.SetActive(false);
-
-        nameText.text = dialogue.name;
-        sentences.Clear();
-
-        foreach (string sentence in dialogue.sentences)
-        {
-            sentences.Enqueue(sentence);
-        }
-        DisplayNextSentence();
-
-    }
-   
     public void DisplayNextSentence()
     {
         if (sentences.Count == 0)
@@ -90,8 +71,6 @@ public class DialogueManager : MonoBehaviour
         
     }
     
-   
-
 }
 
 

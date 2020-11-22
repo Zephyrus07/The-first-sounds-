@@ -11,6 +11,10 @@ TagManager:
   - EnterT
   - ExitG
   - ExitTime
+  - GoNext
+  - FALL
+  - Time
+  - Ending
   layers:
   - Default
   - TransparentFX
@@ -20,7 +24,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Ground
   - 
   - 
   - 
