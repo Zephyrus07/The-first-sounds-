@@ -1677,8 +1677,8 @@ PrefabInstance:
     - target: {fileID: 401915862850835709, guid: 4dfd5b58db0b7f4438ed153a6df2071e,
         type: 3}
       propertyPath: dialogue.sentences.Array.data[2]
-      value: "I wish we could have talked more, but I now you are running \nout of
-        time and also our group will be coming shortly. "
+      value: "I wish we could have talked more, but I know you are running \nout
+        of time and also our group will be coming shortly. "
       objectReference: {fileID: 0}
     - target: {fileID: 401915862850835709, guid: 4dfd5b58db0b7f4438ed153a6df2071e,
         type: 3}
